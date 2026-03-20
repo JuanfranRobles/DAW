@@ -1,1 +1,1 @@
-Nuevo fichero de texto
+Nuevo fichero de texto, editado desde VSC

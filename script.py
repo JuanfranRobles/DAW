@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
 
-print("Hola, modificado desde la rama principal")
+print("Hola, voy a generar un conflicto en merge")
